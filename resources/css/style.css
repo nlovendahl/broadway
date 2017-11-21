@@ -19,6 +19,10 @@ h3 {
   font-size: 23px;
 }
 
+a {
+  color: white;
+}
+
 .flatiron {
   background-image: url('https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png');
   color: white;
@@ -26,6 +30,5 @@ h3 {
 
 .footer {
   font-size: 11px;
-  color: white;
   background-color: dimgray;
 }
