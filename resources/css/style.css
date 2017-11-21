@@ -19,6 +19,14 @@ h3 {
   font-size: 23px;
 }
 
+h4 {
+  font-size: 18px;
+}
+
+p {
+  font-size: 14px;
+}
+
 h4, p {
   text-align: center;
 }
@@ -28,9 +36,12 @@ h4, p {
 }
 
 .footer {
-  font-size: 11px;
   background-color: dimgray;
   text-align: left;
+}
+
+.eleven {
+  font-size: 11px;
 }
 
 .white {
